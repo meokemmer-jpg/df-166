@@ -4,7 +4,7 @@
   "df": "DF-166",
   "hours_billed_month": 428.5,
   "hours_per_audit_avg": 30.61,
-  "iso_timestamp": "2026-05-15T03:54:03+00:00",
+  "iso_timestamp": "2026-05-15T05:49:22+00:00",
   "k17_pre_action_verification": {
     "env_tag": "mock",
     "missing_anchors": [],
