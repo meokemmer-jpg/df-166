@@ -1,0 +1,12 @@
+{
+  "df": "df-166",
+  "ts": "2026-06-09T11:07:35.481943+00:00",
+  "ok": true,
+  "provider": "codex-5.5",
+  "tried": [
+    "codex-5.5"
+  ],
+  "bytes": 3343,
+  "duration_s": 54.4,
+  "error": null
+}
