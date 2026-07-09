@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test prueft nur einen einzigen hartcodierten Happy-Path fuer add(2, 3) und enthaelt keinen Gegenfall mit anderem Input/Output, der die Funktionalitaet robust belegt.",
+  "ts": "2026-07-08T15:08:42.563018+00:00"
+}
